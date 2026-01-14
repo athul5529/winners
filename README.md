@@ -1,8 +1,25 @@
 # winners
 📊 Agile Milestone Tracking Table
-Milestone No	Time Slot	Task (with Tech Stack)	Updation by Guide (Guide asked to do)	Time Taken (30 min)	Remarks
-1	9:15 – 10:15	Designed and developed the Online Answer Sheet Evaluation App – student answer upload, teacher model answer upload, basic mark evaluation (HTML, CSS, JavaScript, Python/Django, MySQL)	Yes	30 min	Core application completed within 2 hours
-2	10:15 – 11:15	Added feature to identify unidentified or mismatched answers and highlight them in red for human correction (OCR validation, UI indicators)	Suggested	30 min	Improved accuracy and manual verification support
+📊 Agile Milestone Tables
+🔹 Milestone 1
+Field	Details
+Milestone No	1
+Time Slot	9:15 – 10:15
+Task	Designed and developed the online answer sheet evaluation app. Implemented teacher model answer upload, student answer upload, and basic mark evaluation.
+Tech Stack Used	HTML, CSS, JavaScript, Python (Django), MySQL
+Updation by Guide	Yes
+Time Taken	30 Minutes
+Remarks	Core application completed within 2 hours
+🔹 Milestone 2
+Field	Details
+Milestone No	2
+Time Slot	10:15 – 11:15
+Task	Added feature to detect unidentified or mismatched answers and highlight them in red for human correction.
+Tech Stack Used	OCR, NLP logic, Django backend, UI indicators
+Updation by Guide	Suggested
+Time Taken	30 Minutes
+Remarks	Improved accuracy and manual verification support
+
 🚀 Project Title
 
 AI-Based Online Answer Sheet Evaluation System
